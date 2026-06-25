@@ -410,7 +410,7 @@ VirtualBox is the standard choice for x86/x64 machines. UTM is the required alte
 - Strong password policy enforced via PAM (`libpam-pwquality`) and `/etc/login.defs`.
 - sudo restricted to 3 attempts, with a custom error message, full I/O logging to `/var/log/sudo/`, TTY mode enabled, and secure paths enforced.
 
-**User management:** Non-root user `fjose-hi` created during installation and added to both `sudo` and `user42` groups.
+**User management:** Non-root user `<login>` created during installation and added to both `sudo` and `user42` groups.
 
 **Services installed:** openssh-server, ufw, sudo, libpam-pwquality. AppArmor is active by default on Debian.
 
