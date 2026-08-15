@@ -430,3 +430,17 @@ VirtualBox is the standard choice for x86/x64 machines. UTM is the required alte
 - [journalctl documentation](https://www.freedesktop.org/software/systemd/man/journalctl.html)
 
 **AI usage:** AI was used to help structure and review this README, to clarify tool comparisons (AppArmor vs SELinux, UFW vs firewalld, apt vs aptitude, etc.), and to verify bash script syntax in the monitoring script. All technical implementation, configuration choices, and system administration steps were performed and understood manually before being documented here.
+
+---
+
+## License
+
+This project was developed for educational purposes as part of the 42 curriculum.
+
+---
+
+## Author
+
+Felipe José Hillebrand
+
+GitHub: https://github.com/felipehillebrand-ops
